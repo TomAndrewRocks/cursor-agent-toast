@@ -2,7 +2,8 @@
 
 Notificação sonora e visual para quando o **agente do Cursor** termina uma tarefa. Usa o hook [`stop`](https://cursor.com/docs/agent/hooks) do Cursor para disparar um som do sistema e um toast na tela — no macOS, via overlay nativo em JXA (sem passar pelo Notification Center, então funciona mesmo com notificações do Cursor silenciadas ou com o Foco ativado).
 
-> **Obs:** doc feita com caveman em modo ultra — zero fluff, mas completa. Se algo não estiver aqui, provavelmente está em [INSTALL.md](INSTALL.md). Caveman: https://github.com/JuliusBrussee/caveman/blob/main/skills/caveman/SKILL.md
+> **Obs:** doc feita com caveman em modo ultra — zero fluff, mas completa. Se algo não estiver aqui, provavelmente está em [INSTALL.md](INSTALL.md). 
+Caveman: https://github.com/JuliusBrussee/caveman/blob/main/skills/caveman/SKILL.md
 
 ## Sumário
 
