@@ -52,7 +52,8 @@ cd seu-repo
 **2. Clone temporário + instala**
 
 ```bash
-git clone https://github.com/SEU_USUARIO/cursor-agent-done-hook.git /tmp/cursor-agent-done-hook
+git clone https://github.com/TomAndrewRocks/cursor-agent-toast.git /tmp/cursor-agent-done-hook
+chmod +x /tmp/cursor-agent-done-hook/install.sh
 /tmp/cursor-agent-done-hook/install.sh --cleanup-source
 ```
 
